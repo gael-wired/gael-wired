@@ -1,7 +1,7 @@
 # Hallo!
 
 
-<video src="media/jupiter_moons.mp4" width="100%"/>
+<video src="media/jupiter_moons.mp4" width="100%"></video> 
 
 
 I'm Gael, a Computer Engineering student based in México.
@@ -26,7 +26,7 @@ My favorite tools are VSCode, GIMP and GNU/Linux
 
 [LinkedIn](https://www.linkedin.com/in/gael-gonz%C3%A1lez-m%C3%A9ndez-b407123b4/)
 
-[gaeglz031@gmail.com](mailto:gaelglz032@gmail.com)
+[gaeglz032@gmail.com](mailto:gaelglz032@gmail.com)
 
 
 
