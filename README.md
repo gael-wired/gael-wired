@@ -1,7 +1,7 @@
 # Hallo!
 
 
-<video src="media/jupiter_moons.mp4" width="100%"></video> 
+![My best video of Jupiter](media/jupiter_moons.gif)
 
 
 I'm Gael, a Computer Engineering student based in México.
